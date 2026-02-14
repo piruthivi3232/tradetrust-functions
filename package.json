@@ -5,14 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "@govtechsg/oa-encryption": "^1.3.5",
-    "@tradetrust-tt/tt-verify": "^8.2.0",
-    "@tradetrust-tt/tradetrust-utils": "^1.6.1",
+    "@tradetrust-tt/tt-verify": "^8.7.0",
+    "@tradetrust-tt/tradetrust-utils": "^2.4.4",
     "@netlify/functions": "^2.0.2",
     "aws-sdk": "^2.1463.0",
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.4",
     "cors": "^2.8.5",
     "ethers": "^5.7.2",
-    "express": "^4.18.2",
+    "express": "^4.22.0",
     "http-errors": "^2.0.0",
     "serverless-http": "^3.0.3",
     "uuid": "^9.0.0"
